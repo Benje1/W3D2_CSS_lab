@@ -197,8 +197,12 @@ img {
   /* Write your code here */
 }
 
+footer.footer {
+  margin: 0;
+}
 
 .footer {
+  margin: 0;
   background-color: #103594;
   margin: 20px;
   justify-content: space-around;
